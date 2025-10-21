@@ -1,0 +1,30 @@
+html_assignment_1
+
+send as zipped folder
+
+starter coding provided - customize/alter it 
+
+use any images in the sample_images directory found within assignment_1_files folder
+
+place the social media icons near the upper right - fixed position
+
+customize every part of the page
+  background, colour, images, etc...
+
+nav keep it basic
+
+logo - can keep as is 
+
+header change the background image 
+
+about | skills | contact
+  - use lorem ipsum or have Luna write it up
+  - swap all images
+  - add content in all 3 of the sections
+      - minimum of 1 image, h1 and 1 paragraph per section
+      - do not make them all the same 
+
+footer modify the copyright with your name
+
+in general chanhe backgrounds and such
+make it your own
